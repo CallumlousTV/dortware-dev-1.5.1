@@ -1,1 +1,1 @@
-nice fucking job dumbass
+python3 build.py
