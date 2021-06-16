@@ -5,3 +5,6 @@
 4. Double check Gowixx's code
 5. make sure Newb isn't gay
 6. I forget the rest
+7. MAKE SURE NOT TO TELL PRINCEKIN.
+8. READ 7
+# 7 IS THE MOST IMPORTANT.
