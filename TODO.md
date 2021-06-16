@@ -37,6 +37,9 @@
 - [ ] RAISE ERROR
 - [ ] FIX ERROR ON LINE 2
 - [x] I THINK IT IS BROKEN I FORGET
+- [ ] HELP ME
+- [ ] MAKE SURE IT WORK
+- [ ] THX <3
 
 - [x] - [ ]   *                 )        (           (             )     )                      )                (     (      (    (    (        )                  )  (        ) - [x]  
  - [x] (  `     (       ( /(        )\ )        )\ )       ( /(  ( /(   *   )    *   )  ( /(     *   )      )\ )  )\ )   )\ ) )\ ) )\ )  ( /(    (          ( /(  )\ )  ( /(  
