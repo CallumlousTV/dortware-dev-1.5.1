@@ -1,1 +1,19 @@
-XDD fuck off
+public class Setup
+public class Setup1
+public class Setup2
+public class Setup3
+public class Setup4
+public class Setup5
+public class Setup6
+public class Setup7
+public class Setup8
+public class Setup9
+public class Setup10
+
+
+
+public class Setup11 extends Module{
+  function intentBaseLoader(){
+     dortware.utils.load.loadutil.loadingutilforintentbaseloader.base.intentbase.loader.base.load()
+  }
+}
